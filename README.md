@@ -26,3 +26,15 @@ I got to fix all vital errors and ended only with the silkscreen crossing the ed
 
 <img width="264" height="503" alt="Screenshot 2025-12-31 at 16 27 18" src="https://github.com/user-attachments/assets/39717f1f-9752-42d7-a0a2-369237ffad7a" />
 
+The BOM:
+
+![Screenshot_1-1-2026_204322_docs google com](https://github.com/user-attachments/assets/9dfcb307-bec0-4ef6-a8ff-d1790692f505)
+
+LCSC Electronics:
+
+![Screenshot_1-1-2026_204417_www lcsc com](https://github.com/user-attachments/assets/4fc9e93c-d88c-4843-ab97-1c7767b1a6db)
+
+JLCPCB:
+
+![Screenshot_1-1-2026_204447_cart jlcpcb com](https://github.com/user-attachments/assets/229b6d37-543a-4d69-b671-d98e08a894c6)
+
