@@ -33,7 +33,8 @@ The BOM:
 
 LCSC Electronics:
 
-![Screenshot_5-1-2026_164121_www lcsc com](https://github.com/user-attachments/assets/f9b2b510-e237-4e79-b7c7-9f177f05fb7f)
+<img width="1209" height="486" alt="Screenshot 2026-01-05 at 16 42 43" src="https://github.com/user-attachments/assets/f8dbc249-62aa-4c6a-8bed-abca444a650c" />
+
 
 
 JLCPCB:
