@@ -11,7 +11,8 @@ During this hour, i worked on beginning with the set up of schematic. I followed
 
 The finished schematic diagram looks like this:
 
-<img width="706" height="483" alt="Screenshot 2025-12-30 at 17 59 46" src="https://github.com/user-attachments/assets/77cfb622-5c71-4f18-a416-2edf34371139" />
+<img width="753" height="514" alt="Screenshot 2026-01-05 at 16 46 24" src="https://github.com/user-attachments/assets/57768e74-6c58-4f2b-acce-e6824911300e" />
+
 
 Then i began building and connecting components  pcb i have built:
 The pcb i did was the most complex i have done so far, it was soo tricky because of the small space, especially when connecting to the rp2040 mcu. As seen in this picture, it was difficult to conenct som tracks in such a small spacing, so i had to do a lot of changes to achieve the ending result.
