@@ -15,4 +15,6 @@ Id,Designator,Footprint,Quantity ,Comment,LCSC part:,Quantity from LCSC electron
 14,J4,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,C92159,20,0.37 USD
 15,U2,SOT-223-3_TabPin2,1,NCP1117-3.3_SOT223,C26537,5,1.18 USD
 16,SW1,SW_Push_SPST_NO_Alps_SKRK,1,SW_Push,C202388,5,0.84 USD
+17,LED,Red LED indicator,1,SMD_LED,C19171390,100,0,57 USD
+
 ,PCB,PCB ,5,from JLCPCB(4USD),NA,,
