@@ -1,7 +1,8 @@
 # Custom-devboard
 I will make custom devboard that i can use to create simple projects on my breadboard that do not require soldering. these projects could e.g be make light blink and control simple sensors. 
 
-<img width="319" height="564" alt="Screenshot 2026-01-06 at 08 12 00" src="https://github.com/user-attachments/assets/01e60a84-6b28-4d3f-a95e-ce0f8783fbdc" />
+<img width="319" height="564" alt="Screenshot 2026-01-06 at 08 12 00" src="https://github.com/user-attachments/assets/01e60a84-6b28-4d3f-a95e-ce0f8783fbdc" /> <img width="304" height="536" alt="Screenshot 2026-01-06 at 08 13 32" src="https://github.com/user-attachments/assets/2cc599c2-e12a-4cc1-bd0d-bd41c57ad69d" />
+
 
 
 During this hour, i worked on beginning with the set up of schematic. I followed the guide and learned new things, e.g about the decoupling capacitors and how they function in the circuit. I also learned about how the usb-c is connected in a circuit and what the different pins do.
