@@ -25,7 +25,8 @@ But now, i think the more complex part is here, i have 42 errors i should fix Th
 
 I got to fix all vital errors and ended only with the silkscreen crossing the edgecuts, and this error is normal, because i want the usb-c to go past the board-ending, so it does not matter, however the finished look for pcb looks like this:
 
-<img width="310" height="494" alt="Screenshot 2026-01-05 at 16 44 41" src="https://github.com/user-attachments/assets/5058c11b-de58-4404-9607-869ccd0a69ce" />
+
+<img width="223" height="400" alt="Screenshot 2026-01-06 at 08 12 40" src="https://github.com/user-attachments/assets/b3393ce6-09df-4f6d-8bdb-ffb4dc460404" />
 
 
 The BOM:
